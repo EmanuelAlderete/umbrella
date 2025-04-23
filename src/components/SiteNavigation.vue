@@ -3,7 +3,7 @@
     <nav class="container flex flex-col sm:flex-row items-center gap-4 text-white py-6">
       <RouterLink :to="{ name: 'home' }">
         <div class="flex items-center gap-3 flex-1">
-          <i class="fa-solid fa-sun text-2xl"></i>
+          <i class="fa-solid fa-umbrella text-2xl"></i>
           <p class="text-2xl">Umbrella: Forecasting your world, your way.</p>
         </div>
       </RouterLink>
